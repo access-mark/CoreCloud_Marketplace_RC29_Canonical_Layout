@@ -1,0 +1,1 @@
+RC28 restores RC25 as the visual baseline. The RC26/RC27 global hero width regressions are excluded. Contact and cart hero content and images now share the standard responsive two-column grid. Header horizontal inset, hero pill spacing, step numerals, and portfolio card consistency adjusted. Browser/device and form delivery checks require independent verification.

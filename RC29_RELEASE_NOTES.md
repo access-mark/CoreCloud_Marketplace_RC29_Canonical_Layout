@@ -1,0 +1,1 @@
+RC29 canonical layout consolidation. Removed separate RC28 responsive patch and !important declarations. Shared hero, typography, container and portfolio layout defined once in site.css. Portfolio SVGs remain conceptual previews; authentic original CoreFlux/Makonde/AccessZero screenshots are not present in supplied site assets. Live browser and form delivery NOT VERIFIED.
